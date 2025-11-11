@@ -12,6 +12,7 @@ Hi, I'm ervytis. Check out my repos!
 | Project Name       | Web Page                                                    | Link                                                                |
 |--------------------|-------------------------------------------------------------|---------------------------------------------------------------------|
 | mtc-repo-backend-prod    | No Page        | [GitHub](https://github.com/ervytis/mtc-repo-backend-prod.git)                 |
+| mtc-repo-frotend-prod    | No Page        | [GitHub](https://github.com/ervytis/mtc-repo-frotend-prod.git)                 |
 | mtc-repo-infra-prod    | [Webpage](https://ervytis.github.io/mtc-repo-infra-prod/)        | [GitHub](https://github.com/ervytis/mtc-repo-infra-prod.git)                 |
 -----
 
